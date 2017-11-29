@@ -1,13 +1,13 @@
-function theBeatlesPlay{
-  
+function theBeatlesPlay(){
+
 }
 
-function johnLennonFacts{
+function johnLennonFacts(){
 
-  
+
 }
 
-function iLoveTheBeatles{
+function iLoveTheBeatles(){
 
   
 }
