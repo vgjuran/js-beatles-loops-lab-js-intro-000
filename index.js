@@ -20,7 +20,7 @@ const facts = [
 Use a while loop to loop over the facts array and add "!!!" to the end of every fact. The function should return an array of strings with exclamation points.*/
 
 function johnLennonFacts(){
-  const facts = [
+  var facts = [
     "He was the last Beatle to learn to drive",
     "He was never a vegetarian",
     "He was a choir boy and boy scout",
