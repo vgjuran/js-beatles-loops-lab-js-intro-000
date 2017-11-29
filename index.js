@@ -19,9 +19,9 @@ const facts = [
 ];
 Use a while loop to loop over the facts array and add "!!!" to the end of every fact. The function should return an array of strings with exclamation points.*/
 
-var facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"];
-function johnLennonFacts(facts) {
 
+function johnLennonFacts(facts) {
+  var facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"];
   var i = 0;
   while (i < facts.length) {
     array.push(facts[i] + "!!!");
